@@ -9,7 +9,7 @@
 
 - Ссылка на скачивание всего проекта (модель, зависимости, подключение FastAPI):
 https://disk.yandex.ru/d/PnmU1PZmgIqAcg
-- Зависимрости проекта:
+- Зависимости проекта:
 https://disk.yandex.ru/d/pPLhMK-pWAvmAg
 - Модель в расширении .bin:
   https://disk.yandex.ru/d/lCz-SImQZc19GA
